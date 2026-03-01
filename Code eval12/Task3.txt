@@ -1,0 +1,8 @@
+-- Write your query below
+SELECT 
+d.DishName,
+d.Price
+FROM Dishes d
+JOIN Restaurant r
+ON d.Restaurantid=r.Id
+WHERE r.Name='Punjabi Rasoi';

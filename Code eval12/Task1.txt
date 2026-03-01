@@ -1,0 +1,20 @@
+-- Write your query below 
+DROP TABLE IF EXISTS Employees;
+PRAGMA foreign_keys =ON;
+CREATE TABLE Employees(
+    employee_id INTEGER,
+    first_name TEXT,
+    last_name TEXT,
+    department_id INTEGER,
+    PRIMARY KEY (employee_id),
+    FOREIGN KEY (department_id)
+    REFERENCES Departments(department_id)
+);
+-- INSERT INTO Employees(employee_id, first_name, last_name, department_id) VALUES (1, 'John', 'Doe', 2);
+INSERT INTO Employees VALUES(1, 'John', 'Doe', 2);
+INSERT INTO Employees VALUES(2, 'Jane', 'Smith', 1);
+INSERT INTO Employees VALUES(3, 'Bob', 'Johnson', 3);
+INSERT INTO Employees VALUES(4, 'Alice', 'Williams', 1);
+-- INSERT INTO Employees (employee_id, first_name, last_name, department_id)
+-- SELECT employee_id, first_name, last_name, department_id FROM Employee;
+DROP TABLE Employee; 

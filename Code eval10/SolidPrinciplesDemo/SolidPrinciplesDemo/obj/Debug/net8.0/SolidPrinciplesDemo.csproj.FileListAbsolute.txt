@@ -1,0 +1,15 @@
+D:\wipro\.net\WiproTrainingAssignments\Code eval10\SolidPrinciplesDemo\SolidPrinciplesDemo\bin\Debug\net8.0\SolidPrinciplesDemo.exe
+D:\wipro\.net\WiproTrainingAssignments\Code eval10\SolidPrinciplesDemo\SolidPrinciplesDemo\bin\Debug\net8.0\SolidPrinciplesDemo.deps.json
+D:\wipro\.net\WiproTrainingAssignments\Code eval10\SolidPrinciplesDemo\SolidPrinciplesDemo\bin\Debug\net8.0\SolidPrinciplesDemo.runtimeconfig.json
+D:\wipro\.net\WiproTrainingAssignments\Code eval10\SolidPrinciplesDemo\SolidPrinciplesDemo\bin\Debug\net8.0\SolidPrinciplesDemo.dll
+D:\wipro\.net\WiproTrainingAssignments\Code eval10\SolidPrinciplesDemo\SolidPrinciplesDemo\bin\Debug\net8.0\SolidPrinciplesDemo.pdb
+D:\wipro\.net\WiproTrainingAssignments\Code eval10\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net8.0\SolidPrinciplesDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\wipro\.net\WiproTrainingAssignments\Code eval10\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net8.0\SolidPrinciplesDemo.AssemblyInfoInputs.cache
+D:\wipro\.net\WiproTrainingAssignments\Code eval10\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net8.0\SolidPrinciplesDemo.AssemblyInfo.cs
+D:\wipro\.net\WiproTrainingAssignments\Code eval10\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net8.0\SolidPrinciplesDemo.csproj.CoreCompileInputs.cache
+D:\wipro\.net\WiproTrainingAssignments\Code eval10\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net8.0\SolidPrinciplesDemo.sourcelink.json
+D:\wipro\.net\WiproTrainingAssignments\Code eval10\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net8.0\SolidPrinciplesDemo.dll
+D:\wipro\.net\WiproTrainingAssignments\Code eval10\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net8.0\refint\SolidPrinciplesDemo.dll
+D:\wipro\.net\WiproTrainingAssignments\Code eval10\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net8.0\SolidPrinciplesDemo.pdb
+D:\wipro\.net\WiproTrainingAssignments\Code eval10\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net8.0\SolidPrinciplesDemo.genruntimeconfig.cache
+D:\wipro\.net\WiproTrainingAssignments\Code eval10\SolidPrinciplesDemo\SolidPrinciplesDemo\obj\Debug\net8.0\ref\SolidPrinciplesDemo.dll

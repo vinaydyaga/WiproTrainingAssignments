@@ -1,0 +1,8 @@
+-- Write your query below
+SELECT e.DeptID,
+AVG(s.Salary)AS AvgSalary
+FROM Employees e
+JOIN Salaries s 
+ON e.EmpId = s.EmpId
+GROUP BY e.DeptID
+HAVING AVG(s.Salary)>50000;

@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wipro\\.net\\WiproTrainingAssignments\\Code eval10\\SolidPrinciplesDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{101C6164-4AD8-4709-9F32-450D8B4C1026}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|d:\\wipro\\.net\\wiprotrainingassignments\\code eval10\\solidprinciplesdemo\\solidprinciplesdemo\\savers\\reportsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{101C6164-4AD8-4709-9F32-450D8B4C1026}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|solutionrelative:solidprinciplesdemo\\savers\\reportsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101C6164-4AD8-4709-9F32-450D8B4C1026}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|d:\\wipro\\.net\\wiprotrainingassignments\\code eval10\\solidprinciplesdemo\\solidprinciplesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{101C6164-4AD8-4709-9F32-450D8B4C1026}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|solutionrelative:solidprinciplesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101C6164-4AD8-4709-9F32-450D8B4C1026}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|d:\\wipro\\.net\\wiprotrainingassignments\\code eval10\\solidprinciplesdemo\\solidprinciplesdemo\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{101C6164-4AD8-4709-9F32-450D8B4C1026}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|solutionrelative:solidprinciplesdemo\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101C6164-4AD8-4709-9F32-450D8B4C1026}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|d:\\wipro\\.net\\wiprotrainingassignments\\code eval10\\solidprinciplesdemo\\solidprinciplesdemo\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{101C6164-4AD8-4709-9F32-450D8B4C1026}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|solutionrelative:solidprinciplesdemo\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101C6164-4AD8-4709-9F32-450D8B4C1026}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|d:\\wipro\\.net\\wiprotrainingassignments\\code eval10\\solidprinciplesdemo\\solidprinciplesdemo\\interfaces\\isavereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{101C6164-4AD8-4709-9F32-450D8B4C1026}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|solutionrelative:solidprinciplesdemo\\interfaces\\isavereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101C6164-4AD8-4709-9F32-450D8B4C1026}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|d:\\wipro\\.net\\wiprotrainingassignments\\code eval10\\solidprinciplesdemo\\solidprinciplesdemo\\interfaces\\igeneratereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{101C6164-4AD8-4709-9F32-450D8B4C1026}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|solutionrelative:solidprinciplesdemo\\interfaces\\igeneratereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101C6164-4AD8-4709-9F32-450D8B4C1026}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|d:\\wipro\\.net\\wiprotrainingassignments\\code eval10\\solidprinciplesdemo\\solidprinciplesdemo\\reports\\inventoryreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{101C6164-4AD8-4709-9F32-450D8B4C1026}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|solutionrelative:solidprinciplesdemo\\reports\\inventoryreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101C6164-4AD8-4709-9F32-450D8B4C1026}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|d:\\wipro\\.net\\wiprotrainingassignments\\code eval10\\solidprinciplesdemo\\solidprinciplesdemo\\reports\\salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{101C6164-4AD8-4709-9F32-450D8B4C1026}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|solutionrelative:solidprinciplesdemo\\reports\\salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101C6164-4AD8-4709-9F32-450D8B4C1026}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|d:\\wipro\\.net\\wiprotrainingassignments\\code eval10\\solidprinciplesdemo\\solidprinciplesdemo\\reports\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{101C6164-4AD8-4709-9F32-450D8B4C1026}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|solutionrelative:solidprinciplesdemo\\reports\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101C6164-4AD8-4709-9F32-450D8B4C1026}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|d:\\wipro\\.net\\wiprotrainingassignments\\code eval10\\solidprinciplesdemo\\solidprinciplesdemo\\formatters\\excelformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{101C6164-4AD8-4709-9F32-450D8B4C1026}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|solutionrelative:solidprinciplesdemo\\formatters\\excelformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101C6164-4AD8-4709-9F32-450D8B4C1026}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|d:\\wipro\\.net\\wiprotrainingassignments\\code eval10\\solidprinciplesdemo\\solidprinciplesdemo\\formatters\\pdfformater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{101C6164-4AD8-4709-9F32-450D8B4C1026}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|solutionrelative:solidprinciplesdemo\\formatters\\pdfformater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101C6164-4AD8-4709-9F32-450D8B4C1026}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|d:\\wipro\\.net\\wiprotrainingassignments\\code eval10\\solidprinciplesdemo\\solidprinciplesdemo\\generators\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{101C6164-4AD8-4709-9F32-450D8B4C1026}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|solutionrelative:solidprinciplesdemo\\generators\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101C6164-4AD8-4709-9F32-450D8B4C1026}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|d:\\wipro\\.net\\wiprotrainingassignments\\code eval10\\solidprinciplesdemo\\solidprinciplesdemo\\interfaces\\ireportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{101C6164-4AD8-4709-9F32-450D8B4C1026}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|solutionrelative:solidprinciplesdemo\\interfaces\\ireportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101C6164-4AD8-4709-9F32-450D8B4C1026}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|d:\\wipro\\.net\\wiprotrainingassignments\\code eval10\\solidprinciplesdemo\\solidprinciplesdemo\\solidprinciplesdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{101C6164-4AD8-4709-9F32-450D8B4C1026}|SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj|solutionrelative:solidprinciplesdemo\\solidprinciplesdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\wipro\\.net\\WiproTrainingAssignments\\Code eval10\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Logger.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDemo\\Logger.cs",
+              "ToolTip": "D:\\wipro\\.net\\WiproTrainingAssignments\\Code eval10\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Logger.cs*",
+              "RelativeToolTip": "SolidPrinciplesDemo\\Logger.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T06:03:41.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\wipro\\.net\\WiproTrainingAssignments\\Code eval10\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Program.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDemo\\Program.cs",
+              "ToolTip": "D:\\wipro\\.net\\WiproTrainingAssignments\\Code eval10\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Program.cs*",
+              "RelativeToolTip": "SolidPrinciplesDemo\\Program.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T06:03:08.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "D:\\wipro\\.net\\WiproTrainingAssignments\\Code eval10\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDemo\\Services\\ReportService.cs",
+              "ToolTip": "D:\\wipro\\.net\\WiproTrainingAssignments\\Code eval10\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Services\\ReportService.cs*",
+              "RelativeToolTip": "SolidPrinciplesDemo\\Services\\ReportService.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T06:02:19.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISaveReport.cs",
+              "DocumentMoniker": "D:\\wipro\\.net\\WiproTrainingAssignments\\Code eval10\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Interfaces\\ISaveReport.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDemo\\Interfaces\\ISaveReport.cs",
+              "ToolTip": "D:\\wipro\\.net\\WiproTrainingAssignments\\Code eval10\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Interfaces\\ISaveReport.cs*",
+              "RelativeToolTip": "SolidPrinciplesDemo\\Interfaces\\ISaveReport.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T06:01:46.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenerateReport.cs",
+              "DocumentMoniker": "D:\\wipro\\.net\\WiproTrainingAssignments\\Code eval10\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Interfaces\\IGenerateReport.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDemo\\Interfaces\\IGenerateReport.cs",
+              "ToolTip": "D:\\wipro\\.net\\WiproTrainingAssignments\\Code eval10\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Interfaces\\IGenerateReport.cs*",
+              "RelativeToolTip": "SolidPrinciplesDemo\\Interfaces\\IGenerateReport.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T06:00:47.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryReport.cs",
+              "DocumentMoniker": "D:\\wipro\\.net\\WiproTrainingAssignments\\Code eval10\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Reports\\InventoryReport.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDemo\\Reports\\InventoryReport.cs",
+              "ToolTip": "D:\\wipro\\.net\\WiproTrainingAssignments\\Code eval10\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Reports\\InventoryReport.cs*",
+              "RelativeToolTip": "SolidPrinciplesDemo\\Reports\\InventoryReport.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:59:48.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SalesReport.cs",
+              "DocumentMoniker": "D:\\wipro\\.net\\WiproTrainingAssignments\\Code eval10\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Reports\\SalesReport.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDemo\\Reports\\SalesReport.cs",
+              "ToolTip": "D:\\wipro\\.net\\WiproTrainingAssignments\\Code eval10\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Reports\\SalesReport.cs*",
+              "RelativeToolTip": "SolidPrinciplesDemo\\Reports\\SalesReport.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:59:17.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Report.cs",
+              "DocumentMoniker": "D:\\wipro\\.net\\WiproTrainingAssignments\\Code eval10\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Reports\\Report.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDemo\\Reports\\Report.cs",
+              "ToolTip": "D:\\wipro\\.net\\WiproTrainingAssignments\\Code eval10\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Reports\\Report.cs*",
+              "RelativeToolTip": "SolidPrinciplesDemo\\Reports\\Report.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:58:48.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExcelFormatter.cs",
+              "DocumentMoniker": "D:\\wipro\\.net\\WiproTrainingAssignments\\Code eval10\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Formatters\\ExcelFormatter.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDemo\\Formatters\\ExcelFormatter.cs",
+              "ToolTip": "D:\\wipro\\.net\\WiproTrainingAssignments\\Code eval10\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Formatters\\ExcelFormatter.cs*",
+              "RelativeToolTip": "SolidPrinciplesDemo\\Formatters\\ExcelFormatter.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:58:06.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PdfFormater.cs",
+              "DocumentMoniker": "D:\\wipro\\.net\\WiproTrainingAssignments\\Code eval10\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Formatters\\PdfFormater.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDemo\\Formatters\\PdfFormater.cs",
+              "ToolTip": "D:\\wipro\\.net\\WiproTrainingAssignments\\Code eval10\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Formatters\\PdfFormater.cs*",
+              "RelativeToolTip": "SolidPrinciplesDemo\\Formatters\\PdfFormater.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:55:54.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IReportFormatter.cs",
+              "DocumentMoniker": "D:\\wipro\\.net\\WiproTrainingAssignments\\Code eval10\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Interfaces\\IReportFormatter.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDemo\\Interfaces\\IReportFormatter.cs",
+              "ToolTip": "D:\\wipro\\.net\\WiproTrainingAssignments\\Code eval10\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Interfaces\\IReportFormatter.cs*",
+              "RelativeToolTip": "SolidPrinciplesDemo\\Interfaces\\IReportFormatter.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:54:59.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportSaver.cs",
+              "DocumentMoniker": "D:\\wipro\\.net\\WiproTrainingAssignments\\Code eval10\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Savers\\ReportSaver.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDemo\\Savers\\ReportSaver.cs",
+              "ToolTip": "D:\\wipro\\.net\\WiproTrainingAssignments\\Code eval10\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Savers\\ReportSaver.cs*",
+              "RelativeToolTip": "SolidPrinciplesDemo\\Savers\\ReportSaver.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:54:12.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReportGenerator.cs",
+              "DocumentMoniker": "D:\\wipro\\.net\\WiproTrainingAssignments\\Code eval10\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Generators\\ReportGenerator.cs",
+              "RelativeDocumentMoniker": "SolidPrinciplesDemo\\Generators\\ReportGenerator.cs",
+              "ToolTip": "D:\\wipro\\.net\\WiproTrainingAssignments\\Code eval10\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\Generators\\ReportGenerator.cs*",
+              "RelativeToolTip": "SolidPrinciplesDemo\\Generators\\ReportGenerator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:53:31.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SolidPrinciplesDemo",
+              "DocumentMoniker": "D:\\wipro\\.net\\WiproTrainingAssignments\\Code eval10\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj",
+              "RelativeDocumentMoniker": "SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj",
+              "ToolTip": "D:\\wipro\\.net\\WiproTrainingAssignments\\Code eval10\\SolidPrinciplesDemo\\SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj*",
+              "RelativeToolTip": "SolidPrinciplesDemo\\SolidPrinciplesDemo.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-28T05:36:52.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

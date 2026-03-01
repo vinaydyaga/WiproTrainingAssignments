@@ -1,0 +1,2 @@
+D:\wipro\.net\day9\Calculator Library\Calculator Library\obj\Debug\Calculator Library.csproj.AssemblyReference.cache
+D:\wipro\.net\day9\Calculator Library\Calculator Library\obj\Debug\Calculator Library.csproj.CoreCompileInputs.cache

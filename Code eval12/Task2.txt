@@ -1,0 +1,13 @@
+-- Write your query below
+SELECT 
+co.country_id,
+co.country,
+COUNT(r.rental_id) AS "rental_count" 
+FROM country co
+JOIN city ci ON co.country_id=ci.country_id
+JOIN address a ON ci.city_id = a.city_id
+JOIN customer cu ON a.address_id = cu.address_id
+JOIN rental r ON cu.customer_id=r.customer_id
+GROUP BY co.country_id, co.country
+ORDER BY COUNT (r.rental_id)DESC
+LIMIT 3;

@@ -1,0 +1,6 @@
+D:\wipro\.net\day9\CalculatotLibrary\bin\Debug\CalculatotLibrary.dll
+D:\wipro\.net\day9\CalculatotLibrary\bin\Debug\CalculatotLibrary.pdb
+D:\wipro\.net\day9\CalculatotLibrary\obj\Debug\CalculatotLibrary.csproj.AssemblyReference.cache
+D:\wipro\.net\day9\CalculatotLibrary\obj\Debug\CalculatotLibrary.csproj.CoreCompileInputs.cache
+D:\wipro\.net\day9\CalculatotLibrary\obj\Debug\CalculatotLibrary.dll
+D:\wipro\.net\day9\CalculatotLibrary\obj\Debug\CalculatotLibrary.pdb

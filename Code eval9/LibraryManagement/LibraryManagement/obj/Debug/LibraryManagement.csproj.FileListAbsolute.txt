@@ -1,0 +1,6 @@
+D:\wipro\.net\day9\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.dll
+D:\wipro\.net\day9\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+D:\wipro\.net\day9\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.AssemblyReference.cache
+D:\wipro\.net\day9\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+D:\wipro\.net\day9\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.dll
+D:\wipro\.net\day9\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
