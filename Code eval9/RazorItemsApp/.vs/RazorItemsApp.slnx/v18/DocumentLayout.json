@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wipro\\WiproTrainingAssignments\\Code eval9\\RazorItemsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAADE21-2372-422C-BB4D-B98CDA80B828}|RazorItemsApp\\RazorItemsApp.csproj|d:\\wipro\\wiprotrainingassignments\\code eval9\\razoritemsapp\\razoritemsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAADE21-2372-422C-BB4D-B98CDA80B828}|RazorItemsApp\\RazorItemsApp.csproj|solutionrelative:razoritemsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAADE21-2372-422C-BB4D-B98CDA80B828}|RazorItemsApp\\RazorItemsApp.csproj|d:\\wipro\\wiprotrainingassignments\\code eval9\\razoritemsapp\\razoritemsapp\\pages\\additem.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAADE21-2372-422C-BB4D-B98CDA80B828}|RazorItemsApp\\RazorItemsApp.csproj|solutionrelative:razoritemsapp\\pages\\additem.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAADE21-2372-422C-BB4D-B98CDA80B828}|RazorItemsApp\\RazorItemsApp.csproj|d:\\wipro\\wiprotrainingassignments\\code eval9\\razoritemsapp\\razoritemsapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBAADE21-2372-422C-BB4D-B98CDA80B828}|RazorItemsApp\\RazorItemsApp.csproj|solutionrelative:razoritemsapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAADE21-2372-422C-BB4D-B98CDA80B828}|RazorItemsApp\\RazorItemsApp.csproj|d:\\wipro\\wiprotrainingassignments\\code eval9\\razoritemsapp\\razoritemsapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAADE21-2372-422C-BB4D-B98CDA80B828}|RazorItemsApp\\RazorItemsApp.csproj|solutionrelative:razoritemsapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAADE21-2372-422C-BB4D-B98CDA80B828}|RazorItemsApp\\RazorItemsApp.csproj|d:\\wipro\\wiprotrainingassignments\\code eval9\\razoritemsapp\\razoritemsapp\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAADE21-2372-422C-BB4D-B98CDA80B828}|RazorItemsApp\\RazorItemsApp.csproj|solutionrelative:razoritemsapp\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAADE21-2372-422C-BB4D-B98CDA80B828}|RazorItemsApp\\RazorItemsApp.csproj|d:\\wipro\\wiprotrainingassignments\\code eval9\\razoritemsapp\\razoritemsapp\\pages\\additem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBAADE21-2372-422C-BB4D-B98CDA80B828}|RazorItemsApp\\RazorItemsApp.csproj|solutionrelative:razoritemsapp\\pages\\additem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\wipro\\WiproTrainingAssignments\\Code eval9\\RazorItemsApp\\RazorItemsApp\\Program.cs",
+              "RelativeDocumentMoniker": "RazorItemsApp\\Program.cs",
+              "ToolTip": "D:\\wipro\\WiproTrainingAssignments\\Code eval9\\RazorItemsApp\\RazorItemsApp\\Program.cs",
+              "RelativeToolTip": "RazorItemsApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T11:30:05.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\wipro\\WiproTrainingAssignments\\Code eval9\\RazorItemsApp\\RazorItemsApp\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "RazorItemsApp\\Models\\Item.cs",
+              "ToolTip": "D:\\wipro\\WiproTrainingAssignments\\Code eval9\\RazorItemsApp\\RazorItemsApp\\Models\\Item.cs",
+              "RelativeToolTip": "RazorItemsApp\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T11:25:27.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddItem.cshtml.cs",
+              "DocumentMoniker": "D:\\wipro\\WiproTrainingAssignments\\Code eval9\\RazorItemsApp\\RazorItemsApp\\Pages\\AddItem.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorItemsApp\\Pages\\AddItem.cshtml.cs",
+              "ToolTip": "D:\\wipro\\WiproTrainingAssignments\\Code eval9\\RazorItemsApp\\RazorItemsApp\\Pages\\AddItem.cshtml.cs",
+              "RelativeToolTip": "RazorItemsApp\\Pages\\AddItem.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T11:29:09.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddItem.cshtml",
+              "DocumentMoniker": "D:\\wipro\\WiproTrainingAssignments\\Code eval9\\RazorItemsApp\\RazorItemsApp\\Pages\\AddItem.cshtml",
+              "RelativeDocumentMoniker": "RazorItemsApp\\Pages\\AddItem.cshtml",
+              "ToolTip": "D:\\wipro\\WiproTrainingAssignments\\Code eval9\\RazorItemsApp\\RazorItemsApp\\Pages\\AddItem.cshtml",
+              "RelativeToolTip": "RazorItemsApp\\Pages\\AddItem.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-05T11:28:35.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\wipro\\WiproTrainingAssignments\\Code eval9\\RazorItemsApp\\RazorItemsApp\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorItemsApp\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\wipro\\WiproTrainingAssignments\\Code eval9\\RazorItemsApp\\RazorItemsApp\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorItemsApp\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T11:17:18.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\wipro\\WiproTrainingAssignments\\Code eval9\\RazorItemsApp\\RazorItemsApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorItemsApp\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\wipro\\WiproTrainingAssignments\\Code eval9\\RazorItemsApp\\RazorItemsApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "RazorItemsApp\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-05T11:16:56.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

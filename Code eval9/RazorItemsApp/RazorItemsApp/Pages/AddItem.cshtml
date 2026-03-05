@@ -1,0 +1,18 @@
+﻿@page
+@model RazorItemsApp.Pages.AddItemModel
+
+<h2>Add Item</h2>
+
+<form method="post">
+
+    <label>Item Name</label>
+
+    <input type="text" asp-for="NewItem.Name" />
+
+    <button type="submit">Add</button>
+
+</form>
+
+<br>
+
+<a href="/">Back to Item List</a>

@@ -1,0 +1,3 @@
+D:\wipro\WiproTrainingAssignments\Code eval9\MiddlewareApp\MiddlewareApp\wwwroot\CSS\style.css
+D:\wipro\WiproTrainingAssignments\Code eval9\MiddlewareApp\MiddlewareApp\wwwroot\pages\index.html
+D:\wipro\WiproTrainingAssignments\Code eval9\MiddlewareApp\MiddlewareApp\wwwroot\JS\script.js
