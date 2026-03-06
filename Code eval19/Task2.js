@@ -1,0 +1,17 @@
+input_array = getProgramInputs();
+
+var character = input_array[0];
+var count = Number(input_array[1]);
+
+function repeatCharacter(character, count) {
+    // Add your code below this line
+    var result="";
+
+    for(var i=0;i<count;i++){
+        result=result+character;
+    }
+    return result;
+}
+
+var output = repeatCharacter(character, count);
+console.log(output);
